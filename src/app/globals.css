@@ -19,8 +19,85 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* 改善移动端滚动性能 */
+@media (max-width: 768px) {
+  * {
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* 优化移动端触摸目标 */
+  button, a {
+    min-height: 44px;
+    min-width: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* 防止移动端字体大小自动调整 */
+  html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  
+  /* 优化移动端输入体验 */
+  input, textarea, select {
+    font-size: 16px; /* 防止iOS自动缩放 */
+  }
+}
+
+/* 焦点状态优化 */
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* 防止布局偏移 */
+img {
+  height: auto;
+  max-width: 100%;
+  font-style: italic;
+  background-repeat: no-repeat;
+  background-size: cover;
+  shape-margin: 0.75rem;
+}
+
+/* 优化文本选择颜色 */
+::selection {
+  background-color: #3b82f6;
+  color: white;
+}
+
+/* 性能优化 */
+* {
+  box-sizing: border-box;
+}
+
+/* 改善移动端点击体验 */
+@media (hover: none) and (pointer: coarse) {
+  button:hover,
+  a:hover {
+    background-color: initial;
+  }
+}
+
+/* 优化移动端视口高度 */
+@supports (-webkit-touch-callout: none) {
+  .min-h-screen {
+    min-height: -webkit-fill-available;
+  }
 }
