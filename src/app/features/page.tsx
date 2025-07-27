@@ -9,9 +9,7 @@ import {
   Clock,
   Settings,
   Smartphone,
-  Wallet,
-  CheckCircle2,
-  ArrowLeft
+  CheckCircle2
 } from "lucide-react";
 import Link from "next/link";
 
@@ -583,7 +581,7 @@ export default function Features() {
                   </div>
                 </div>
                 <p className="text-indigo-100 text-sm leading-relaxed">
-                  "使用这个跑分系统3个月了，系统跑分非常稳定，月收益超过2万。跑分是什么意思之前不太懂，现在已经是跑分车队的核心成员了。"
+                  &ldquo;使用这个跑分系统3个月了，系统跑分非常稳定，月收益超过2万。跑分是什么意思之前不太懂，现在已经是跑分车队的核心成员了。&rdquo;
                 </p>
               </div>
               
@@ -598,7 +596,7 @@ export default function Features() {
                   </div>
                 </div>
                 <p className="text-indigo-100 text-sm leading-relaxed">
-                  "跑分平台搭建让我从打工族变成了创业者。通过手机跑分平台app，我建立了自己的跑分团队，现在是跑分平台推荐的成功案例。"
+                  &ldquo;跑分平台搭建让我从打工族变成了创业者。通过手机跑分平台app，我建立了自己的跑分团队，现在是跑分平台推荐的成功案例。&rdquo;
                 </p>
               </div>
               
@@ -613,7 +611,7 @@ export default function Features() {
                   </div>
                 </div>
                 <p className="text-indigo-100 text-sm leading-relaxed">
-                  "从金马跑分平台转到这里后，业务效率提升了300%。跑分赚钱不再是梦想，我们的支付宝跑分平台现在每天处理上万笔交易。"
+                  &ldquo;从金马跑分平台转到这里后，业务效率提升了300%。跑分赚钱不再是梦想，我们的支付宝跑分平台现在每天处理上万笔交易。&rdquo;
                 </p>
               </div>
             </div>

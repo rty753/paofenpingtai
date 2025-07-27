@@ -5,7 +5,6 @@ import {
   Zap, 
   TrendingUp, 
   Globe, 
-  Phone,
   MessageCircle,
   CheckCircle,
   ArrowRight,
