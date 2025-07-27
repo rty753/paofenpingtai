@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "USDT跑分平台 | 巅峰跑分平台 | 银行卡跑分平台 | 跑分系统源码",
   description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、支付宝跑分平台、博彩跑分等全方位解决方案。跑分平台搭建、跑分系统源码、手机跑分平台app开发，跑分赚钱就选我们。支持印度三方支付系统、代收代付功能、自动回调、码商团队分级代理。",
-  keywords: "跑分平台,USDT跑分平台,巅峰跑分平台,银行卡跑分平台,跑分平台搭建,跑分平台有哪些,跑分平台源码,金马跑分平台,跑分平台app,最新跑分平台,手机跑分平台,跑分平台推荐,USDT跑分系统,跑分系统,跑分系统源码,系统跑分,博彩跑分,跑分是什么意思,跑分赚钱,银行卡跑分,跑分车队,跑分流程,跑分论坛,支付宝跑分平台,代收代付,印度支付,三方支付",
+
   authors: [{ name: "TataPay" }],
   openGraph: {
     title: "USDT跑分平台 | 巅峰跑分平台 | 银行卡跑分平台 | 跑分系统源码",
@@ -151,7 +151,7 @@ export default function RootLayout({
   return (
     <html lang="zh-CN">
       <head>
-        <meta name="keywords" content="跑分平台,USDT跑分平台,巅峰跑分平台,银行卡跑分平台,跑分平台搭建,跑分平台有哪些,跑分平台源码,金马跑分平台,跑分平台app,最新跑分平台,手机跑分平台,跑分平台推荐,USDT跑分系统,跑分系统,跑分系统源码,系统跑分,博彩跑分,跑分是什么意思,跑分赚钱,银行卡跑分,跑分车队,跑分流程,跑分论坛,支付宝跑分平台" />
+
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         
         {/* Mobile Optimization */}
