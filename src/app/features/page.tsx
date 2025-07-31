@@ -15,11 +15,11 @@ import Link from "next/link";
 
 export const metadata = {
   title: "跑分平台功能详情 | USDT跑分平台 | 银行卡跑分平台功能介绍",
-  description: "深度解析USDT跑分平台、银行卡跑分平台、支付宝跑分平台功能。了解跑分是什么意思，掌握跑分赚钱技巧。提供跑分系统源码、跑分平台搭建、手机跑分平台app开发等全方位服务。巅峰跑分平台技术，跑分车队管理，博彩跑分解决方案。",
+  description: "深度解析USDT跑分平台、银行卡跑分平台、UPI跑分平台功能。了解跑分是什么意思，掌握跑分赚钱技巧。提供跑分系统源码、跑分平台搭建、手机跑分平台app开发等全方位服务。巅峰跑分平台技术，跑分车队管理，博彩跑分解决方案。",
 
   openGraph: {
     title: "跑分平台功能详情 | USDT跑分平台 | 银行卡跑分平台功能介绍",
-    description: "深度解析USDT跑分平台、银行卡跑分平台、支付宝跑分平台功能。了解跑分是什么意思，掌握跑分赚钱技巧。",
+    description: "深度解析USDT跑分平台、银行卡跑分平台、UPI跑分平台功能。了解跑分是什么意思，掌握跑分赚钱技巧。",
     type: "website",
     locale: "zh_CN",
   },
@@ -125,7 +125,7 @@ export default function Features() {
             跑分平台核心功能
           </h1>
           <p className="text-lg sm:text-xl mb-8 max-w-4xl mx-auto leading-relaxed">
-            专业的印度三方支付系统，提供全方位的跑分平台解决方案。我们的USDT跑分平台、银行卡跑分平台、支付宝跑分平台等多样化产品，满足不同客户的跑分系统需求。从跑分平台搭建到手机跑分平台app开发，我们都有成熟的跑分系统源码和技术方案。
+            专业的印度三方支付系统，提供全方位的跑分平台解决方案。我们的USDT跑分平台、银行卡跑分平台、UPI跑分平台等多样化产品，满足不同客户的跑分系统需求。从跑分平台搭建到手机跑分平台app开发，我们都有成熟的跑分系统源码和技术方案。
           </p>
         </div>
       </section>
@@ -362,7 +362,7 @@ export default function Features() {
                 跑分平台有哪些技术难点？主要集中在资金安全、交易速度和系统稳定性三个方面。我们的跑分系统源码通过多年的迭代优化，已经成功解决了这些技术挑战。博彩跑分等高频交易场景下，我们的系统仍能保持稳定运行。
               </p>
               <p className="text-gray-700 leading-relaxed">
-                支付宝跑分平台的技术原理与银行卡跑分类似，但在用户体验方面有所不同。我们的跑分平台app同时支持银行卡和支付宝两种支付方式，用户可以根据实际需求灵活选择。这种多元化的支付方案是巅峰跑分平台的重要特色。
+                UPI跑分平台的技术原理与银行卡跑分类似，但在用户体验方面有所不同。我们的跑分平台app同时支持银行卡和UPI两种支付方式，用户可以根据实际需求灵活选择。这种多元化的支付方案是巅峰跑分平台的重要特色。
               </p>
             </div>
           </div>
@@ -386,7 +386,7 @@ export default function Features() {
                 <ul className="space-y-2 text-gray-300 text-sm">
                   <li>• 多币种跑分赚钱系统</li>
                   <li>• 智能跑分流程引擎</li>
-                  <li>• 实时支付宝跑分平台监控</li>
+                  <li>• 实时UPI跑分平台监控</li>
                   <li>• 自动化博彩跑分处理</li>
                   <li>• 风控最新跑分平台机制</li>
                   <li>• 跑分论坛社区功能</li>
@@ -444,7 +444,7 @@ export default function Features() {
                   <td className="px-6 py-4 text-gray-700 text-sm">交易佣金、资金沉淀收益、增值服务</td>
                 </tr>
                 <tr className="hover:bg-gray-50">
-                  <td className="px-6 py-4 font-semibold text-gray-900">支付宝跑分平台</td>
+                  <td className="px-6 py-4 font-semibold text-gray-900">UPI跑分平台</td>
                   <td className="px-6 py-4 text-gray-700 text-sm">移动支付优先，用户体验好，普及率高</td>
                   <td className="px-6 py-4 text-gray-700 text-sm">小额支付、移动商务、生活服务</td>
                   <td className="px-6 py-4 text-gray-700 text-sm">小额多频、用户补贴、生态建设</td>
@@ -538,7 +538,7 @@ export default function Features() {
               </div>
               <h3 className="text-lg font-bold text-gray-900 mb-3">秒级结算</h3>
               <p className="text-gray-700 text-sm leading-relaxed">
-                最新跑分平台技术实现毫秒级交易确认，让跑分赚钱变得更加高效。银行卡跑分平台和支付宝跑分平台都支持实时到账。
+                最新跑分平台技术实现毫秒级交易确认，让跑分赚钱变得更加高效。银行卡跑分平台和UPI跑分平台都支持实时到账。
               </p>
             </div>
             
@@ -611,7 +611,7 @@ export default function Features() {
                   </div>
                 </div>
                 <p className="text-indigo-100 text-sm leading-relaxed">
-                  &ldquo;从金马跑分平台转到这里后，业务效率提升了300%。跑分赚钱不再是梦想，我们的支付宝跑分平台现在每天处理上万笔交易。&rdquo;
+                  &ldquo;从金马跑分平台转到这里后，业务效率提升了300%。跑分赚钱不再是梦想，我们的UPI跑分平台现在每天处理上万笔交易。&rdquo;
                 </p>
               </div>
             </div>
@@ -641,7 +641,7 @@ export default function Features() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">选择跑分系统源码</h4>
-                    <p className="text-gray-700 text-sm">根据业务需求选择USDT跑分平台、银行卡跑分平台或支付宝跑分平台的源码方案。</p>
+                    <p className="text-gray-700 text-sm">根据业务需求选择USDT跑分平台、银行卡跑分平台或UPI跑分平台的源码方案。</p>
                   </div>
                 </div>
                 <div className="flex items-start">

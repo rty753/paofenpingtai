@@ -14,12 +14,12 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "USDT跑分平台 | 巅峰跑分平台 | 银行卡跑分平台 | 跑分系统源码",
-  description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、支付宝跑分平台、博彩跑分等全方位解决方案。跑分平台搭建、跑分系统源码、手机跑分平台app开发，跑分赚钱就选我们。支持印度三方支付系统、代收代付功能、自动回调、码商团队分级代理。",
+  description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、UPI跑分平台、博彩跑分等全方位解决方案。跑分平台搭建、跑分系统源码、手机跑分平台app开发，跑分赚钱就选我们。支持印度三方支付系统、代收代付功能、自动回调、码商团队分级代理。",
 
   authors: [{ name: "TataPay" }],
   openGraph: {
     title: "USDT跑分平台 | 巅峰跑分平台 | 银行卡跑分平台 | 跑分系统源码",
-    description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、支付宝跑分平台、博彩跑分等全方位解决方案。跑分平台搭建、跑分系统源码、手机跑分平台app开发，跑分赚钱就选我们。",
+    description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、UPI跑分平台、博彩跑分等全方位解决方案。跑分平台搭建、跑分系统源码、手机跑分平台app开发，跑分赚钱就选我们。",
     type: "website",
     locale: "zh_CN",
     siteName: "跑分平台",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "USDT跑分平台 | 巅峰跑分平台 | 银行卡跑分平台",
-    description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、支付宝跑分平台、跑分系统源码等全方位跑分解决方案。",
+    description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、UPI跑分平台、跑分系统源码等全方位跑分解决方案。",
   },
   robots: {
     index: true,

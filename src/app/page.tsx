@@ -209,7 +209,7 @@ export default function Home() {
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">什么是跑分系统？</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                跑分是指通过自己的银行卡或支付宝等收款码，为第三方代收款项并从中获得佣金的一种商业模式。USDT跑分系统作为最新跑分平台的核心技术，为用户提供安全、高效的跑分流程。我们的系统跑分技术支持多种支付方式，包括银行卡跑分、支付宝跑分平台等多元化解决方案。
+                跑分是指通过自己的银行卡或UPI等收款码，为第三方代收款项并从中获得佣金的一种商业模式。USDT跑分系统作为最新跑分平台的核心技术，为用户提供安全、高效的跑分流程。我们的系统跑分技术支持多种支付方式，包括银行卡跑分、UPI跑分平台等多元化解决方案。
               </p>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 跑分平台推荐选择我们的原因在于，我们提供完整的跑分平台源码和技术支持，帮助客户快速搭建属于自己的跑分车队。无论是个人用户还是企业级客户，都能在我们的平台找到适合的跑分系统解决方案。
@@ -280,7 +280,7 @@ export default function Home() {
                   <li>• 配置USDT跑分平台参数</li>
                   <li>• 接入银行卡跑分平台接口</li>
                   <li>• 建立跑分车队管理体系</li>
-                  <li>• 设置支付宝跑分平台通道</li>
+                  <li>• 设置UPI跑分平台通道</li>
                   <li>• 启动跑分平台app推广</li>
                 </ul>
               </div>
@@ -289,7 +289,7 @@ export default function Home() {
                 <ul className="space-y-2 text-gray-300">
                   <li>• 下载手机跑分平台应用</li>
                   <li>• 注册并完成实名认证</li>
-                  <li>• 绑定银行卡或支付宝账户</li>
+                  <li>• 绑定银行卡或UPI账户</li>
                   <li>• 学习跑分是什么意思和操作方法</li>
                   <li>• 开始跑分赚钱的实际操作</li>
                   <li>• 在跑分论坛分享经验心得</li>
@@ -345,7 +345,7 @@ export default function Home() {
                 <h3 className="text-xl font-bold text-gray-900">博彩跑分案例</h3>
               </div>
               <p className="text-gray-700 text-sm leading-relaxed">
-                一个专注于博彩跑分的团队，使用我们的跑分平台源码快速搭建了自己的业务系统。通过整合支付宝跑分平台和传统银行渠道，他们的跑分平台推荐指数在行业内名列前茅。目前已发展成为拥有多个跑分车队的大型运营商。
+                一个专注于博彩跑分的团队，使用我们的跑分平台源码快速搭建了自己的业务系统。通过整合UPI跑分平台和传统银行渠道，他们的跑分平台推荐指数在行业内名列前茅。目前已发展成为拥有多个跑分车队的大型运营商。
               </p>
             </div>
           </div>
@@ -369,7 +369,7 @@ export default function Home() {
               <div className="bg-white p-6 rounded-xl shadow-sm border-l-4 border-blue-500">
                 <h3 className="text-lg font-bold text-gray-900 mb-2">跑分平台有哪些类型？</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  目前主流的跑分平台包括USDT跑分平台、银行卡跑分平台、支付宝跑分平台等。每种类型都有其特定的应用场景和优势。我们的跑分系统源码支持多种平台类型的搭建，客户可以根据业务需求选择最适合的方案。
+                  目前主流的跑分平台包括USDT跑分平台、银行卡跑分平台、UPI跑分平台等。每种类型都有其特定的应用场景和优势。我们的跑分系统源码支持多种平台类型的搭建，客户可以根据业务需求选择最适合的方案。
                 </p>
               </div>
               
@@ -399,7 +399,7 @@ export default function Home() {
               <div className="bg-white p-6 rounded-xl shadow-sm border-l-4 border-red-500">
                 <h3 className="text-lg font-bold text-gray-900 mb-2">博彩跑分是否合法合规？</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  博彩跑分的合规性因地区而异，我们的系统设计严格遵循相关法律法规。银行卡跑分和支付宝跑分平台都需要在合规框架内运营。我们建议客户在搭建跑分平台前，充分了解当地的法律法规，确保业务的合法性。
+                  博彩跑分的合规性因地区而异，我们的系统设计严格遵循相关法律法规。银行卡跑分和UPI跑分平台都需要在合规框架内运营。我们建议客户在搭建跑分平台前，充分了解当地的法律法规，确保业务的合法性。
                 </p>
               </div>
               
