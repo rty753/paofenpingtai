@@ -2,9 +2,9 @@ import type { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: '跑分平台 - 印度三方支付系统',
-    short_name: '跑分平台',
-    description: '专业的跑分平台，提供印度三方支付系统、代收代付功能、自动回调、码商团队分级代理',
+    name: '专业跑分平台 - 全球首家跑分平台 行业首创全自动买卖模式',
+    short_name: '专业跑分平台',
+    description: '行业首创全自动买卖模式！专业跑分平台，跑分源码开源，专业技术支持。全球首家跑分平台，支持代收代付、自动回调、分级代理',
     start_url: '/',
     display: 'standalone',
     background_color: '#ffffff',

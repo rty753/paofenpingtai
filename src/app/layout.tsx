@@ -13,21 +13,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "跑分平台 | 跑分源码 | 跑分论坛 - 印度银行卡UPI跑分系统",
-  description: "行业首创全自动买卖模式！专业跑分平台，提供印度印尼越南银行卡跑分、UPI跑分系统。跑分源码开源，跑分论坛交流，支持代收代付、自动回调。跑分平台搭建首选。",
+  title: "专业跑分平台 | 跑分源码 | 技术支持 - 全球首家跑分平台系统",
+  description: "行业首创全自动买卖模式！专业跑分平台，提供印度印尼越南银行卡跑分、UPI跑分系统。跑分源码开源，专业技术支持，支持代收代付、自动回调。跑分平台搭建首选。",
 
   authors: [{ name: "TataPay" }],
   openGraph: {
-    title: "跑分平台 | 跑分源码 | 跑分论坛 - 印度银行卡UPI跑分系统",
-    description: "行业首创全自动买卖模式！专业跑分平台，提供印度印尼越南银行卡跑分、UPI跑分系统。跑分源码开源，跑分论坛交流，支持代收代付、自动回调。",
+    title: "专业跑分平台 | 跑分源码 | 技术支持 - 全球首家跑分平台系统",
+    description: "行业首创全自动买卖模式！专业跑分平台，提供印度印尼越南银行卡跑分、UPI跑分系统。跑分源码开源，专业技术支持，支持代收代付、自动回调。",
     type: "website",
     locale: "zh_CN",
     siteName: "跑分平台",
   },
   twitter: {
     card: "summary_large_image",
-    title: "跑分平台 | 跑分源码 | 跑分论坛",
-    description: "行业首创全自动买卖模式！专业跑分平台，印度印尼越南银行卡跑分、UPI跑分系统。跑分源码开源，跑分论坛交流，海外支付专家。",
+    title: "专业跑分平台 | 跑分源码 | 技术支持",
+    description: "行业首创全自动买卖模式！专业跑分平台，印度印尼越南银行卡跑分、UPI跑分系统。跑分源码开源，专业技术支持，海外支付专家。",
   },
   robots: {
     index: true,
@@ -56,7 +56,7 @@ const jsonLd = [
     '@context': 'https://schema.org',
     '@type': 'Organization',
     name: '跑分平台',
-    description: '专业的印度三方支付系统，提供代收代付功能、自动回调、码商团队分级代理',
+    description: '行业首创全自动买卖模式，专业跑分平台，提供跑分源码、技术支持、代收代付、自动回调、分级代理',
     url: 'https://paofenpingtai.com',
     logo: 'https://paofenpingtai.com/favicon.ico',
     contactPoint: {
@@ -74,7 +74,7 @@ const jsonLd = [
       itemOffered: {
         '@type': 'Service',
         name: '跑分平台服务',
-        description: '印度三方支付系统、代收代付、自动回调服务',
+        description: '行业首创全自动买卖模式，跑分平台、跑分源码、技术支持、代收代付、自动回调服务',
         provider: {
           '@type': 'Organization',
           name: '跑分平台'
@@ -91,7 +91,7 @@ const jsonLd = [
     '@type': 'WebSite',
     name: '跑分平台',
     url: 'https://paofenpingtai.com',
-    description: '专业的跑分平台，提供印度三方支付系统、代收代付功能、自动回调',
+    description: '行业首创全自动买卖模式，专业跑分平台，跑分源码开源，专业技术支持，代收代付、自动回调',
     inLanguage: 'zh-CN',
     isAccessibleForFree: true,
     potentialAction: {
@@ -103,8 +103,8 @@ const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'Service',
-    name: '印度三方支付系统',
-    description: '专业的跑分平台，支持代收代付、自动回调、分级代理等功能',
+    name: '跑分平台服务',
+    description: '行业首创全自动买卖模式，专业跑分平台，跑分源码开源，专业技术支持，支持代收代付、自动回调、分级代理',
     provider: {
       '@type': 'Organization',
       name: '跑分平台'

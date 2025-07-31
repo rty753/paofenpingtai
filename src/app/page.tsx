@@ -44,7 +44,7 @@ export default function Home() {
             <span className="sm:hidden"> </span>行业首创全自动买卖模式
           </h1>
           <p className="text-lg sm:text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
-            专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台解决方案。我们的跑分系统源码经过深度优化，支持跑分平台搭建、手机跑分平台开发，是最新跑分平台的行业标杆。阿三自动充u挂卡代收代付，自动回调，码商团队分级代理功能，支持所有印度银行公户个户唤醒，Pe Paytm Mobikwik FreeCharge等5个主流钱包。
+            专业的UPI跑分平台，巅峰跑分平台技术，提供银行卡跑分平台解决方案。我们的跑分系统源码经过深度优化，支持跑分平台搭建、手机跑分平台开发，是最新跑分平台的行业标杆。阿三自动充u挂卡代收代付，自动回调，码商团队分级代理功能，支持所有印度银行公户个户唤醒，Pe Paytm Mobikwik FreeCharge等5个主流钱包。
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
@@ -209,20 +209,20 @@ export default function Home() {
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">什么是跑分系统？</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                跑分是指通过自己的银行卡或UPI等收款码，为第三方代收款项并从中获得佣金的一种商业模式。USDT跑分系统作为最新跑分平台的核心技术，为用户提供安全、高效的跑分流程。我们的系统跑分技术支持多种支付方式，包括银行卡跑分、UPI跑分平台等多元化解决方案。
+                跑分是指通过自己的银行卡或UPI等收款码，为第三方代收款项并从中获得佣金的一种商业模式。UPI跑分系统作为最新跑分平台的核心技术，为用户提供安全、高效的跑分流程。我们的系统跑分技术支持多种支付方式，包括银行卡跑分、UPI跑分平台等多元化解决方案。
               </p>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 跑分平台推荐选择我们的原因在于，我们提供完整的跑分平台源码和技术支持，帮助客户快速搭建属于自己的跑分车队。无论是个人用户还是企业级客户，都能在我们的平台找到适合的跑分系统解决方案。
               </p>
               <p className="text-gray-700 leading-relaxed">
-                金马跑分平台等传统平台存在诸多限制，而我们的手机跑分平台app则提供了更灵活、更安全的操作体验。通过跑分论坛的用户反馈，我们的平台在稳定性和收益率方面都表现优异。
+                金马跑分平台等传统平台存在诸多限制，而我们的手机跑分平台app则提供了更灵活、更安全的操作体验。通过技术支持的用户反馈，我们的平台在稳定性和收益率方面都表现优异。
               </p>
             </div>
             
             <div className="bg-white p-8 rounded-2xl shadow-lg">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">跑分赚钱的核心优势</h3>
               <p className="text-gray-700 mb-4 leading-relaxed">
-                博彩跑分作为新兴的盈利模式，为用户提供了稳定的收益来源。我们的跑分平台有哪些特色功能呢？首先，支持多币种交易，特别是USDT跑分平台功能，让用户可以在全球范围内进行资金流转。
+                博彩跑分作为新兴的盈利模式，为用户提供了稳定的收益来源。我们的跑分平台有哪些特色功能呢？首先，支持多币种交易，特别是UPI跑分平台功能，支持Paytm、PhonePe、Google Pay等印度主流钱包进行资金流转。
               </p>
               <p className="text-gray-700 mb-4 leading-relaxed">
                 巅峰跑分平台的技术架构确保了系统的高可用性和安全性。我们的银行卡跑分平台采用先进的风控系统，有效防范各类交易风险。用户通过我们的跑分流程，可以实现24小时不间断的收益获取。
@@ -251,7 +251,7 @@ export default function Home() {
             <div className="bg-gradient-to-br from-blue-50 to-blue-100 p-8 rounded-2xl">
               <h3 className="text-xl font-bold text-gray-900 mb-4">完整源码交付</h3>
               <p className="text-gray-700 leading-relaxed">
-                我们提供完整的跑分平台源码，包括前端、后端、数据库设计等全套技术方案。无论您是要搭建USDT跑分系统还是传统的银行卡跑分平台，我们的源码都能满足您的需求。系统跑分的核心算法经过多年优化，确保平台的稳定运行。
+                我们提供完整的跑分平台源码，包括前端、后端、数据库设计等全套技术方案。无论您是要搭建UPI跑分系统还是传统的银行卡跑分平台，我们的源码都能满足您的需求。系统跑分的核心算法经过多年优化，确保平台的稳定运行。
               </p>
             </div>
             
@@ -265,7 +265,7 @@ export default function Home() {
             <div className="bg-gradient-to-br from-purple-50 to-purple-100 p-8 rounded-2xl">
               <h3 className="text-xl font-bold text-gray-900 mb-4">专业技术支持</h3>
               <p className="text-gray-700 leading-relaxed">
-                我们的技术团队在跑分论坛具有良好声誉，提供7×24小时的技术支持服务。从跑分平台搭建的初期规划到后期运营维护，我们都有专业的技术人员为您保驾护航。最新跑分平台的技术发展趋势，我们始终走在行业前沿。
+                我们的技术团队在技术支持具有良好声誉，提供7×24小时的技术支持服务。从跑分平台搭建的初期规划到后期运营维护，我们都有专业的技术人员为您保驾护航。最新跑分平台的技术发展趋势，我们始终走在行业前沿。
               </p>
             </div>
           </div>
@@ -277,7 +277,7 @@ export default function Home() {
                 <h4 className="text-xl font-semibold mb-4 text-blue-400">平台方操作流程</h4>
                 <ul className="space-y-2 text-gray-300">
                   <li>• 部署跑分系统源码到服务器</li>
-                  <li>• 配置USDT跑分平台参数</li>
+                  <li>• 配置UPI跑分平台参数</li>
                   <li>• 接入银行卡跑分平台接口</li>
                   <li>• 建立跑分车队管理体系</li>
                   <li>• 设置UPI跑分平台通道</li>
@@ -292,7 +292,7 @@ export default function Home() {
                   <li>• 绑定银行卡或UPI账户</li>
                   <li>• 学习跑分是什么意思和操作方法</li>
                   <li>• 开始跑分赚钱的实际操作</li>
-                  <li>• 在跑分论坛分享经验心得</li>
+                  <li>• 在技术支持分享经验心得</li>
                 </ul>
               </div>
             </div>
@@ -321,7 +321,7 @@ export default function Home() {
                 <h3 className="text-xl font-bold text-gray-900">巅峰跑分平台案例</h3>
               </div>
               <p className="text-gray-700 text-sm leading-relaxed">
-                某客户使用我们的跑分系统源码搭建了自己的USDT跑分平台，上线3个月内就积累了5000+活跃用户。通过优化跑分流程和建立专业的跑分车队，月收益突破100万元。他们的成功经验在跑分论坛被广泛分享，成为最新跑分平台的标杆案例。
+                某客户使用我们的跑分系统源码搭建了自己的UPI跑分平台，上线3个月内就积累了5000+活跃用户。通过优化跑分流程和建立专业的跑分车队，月收益突破100万元。他们的成功经验在技术支持被广泛分享，成为最新跑分平台的标杆案例。
               </p>
             </div>
             
@@ -369,14 +369,14 @@ export default function Home() {
               <div className="bg-white p-6 rounded-xl shadow-sm border-l-4 border-blue-500">
                 <h3 className="text-lg font-bold text-gray-900 mb-2">跑分平台有哪些类型？</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  目前主流的跑分平台包括USDT跑分平台、银行卡跑分平台、UPI跑分平台等。每种类型都有其特定的应用场景和优势。我们的跑分系统源码支持多种平台类型的搭建，客户可以根据业务需求选择最适合的方案。
+                  目前主流的跑分平台包括UPI跑分平台、银行卡跑分平台、印度钱包跑分平台等。每种类型都有其特定的应用场景和优势。我们的跑分系统源码支持多种平台类型的搭建，客户可以根据业务需求选择最适合的方案。
                 </p>
               </div>
               
               <div className="bg-white p-6 rounded-xl shadow-sm border-l-4 border-green-500">
                 <h3 className="text-lg font-bold text-gray-900 mb-2">如何选择合适的跑分平台推荐？</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  选择跑分平台时应考虑技术稳定性、资金安全性、用户体验等因素。我们的最新跑分平台采用巅峰跑分平台技术，在跑分论坛中口碑良好。相比金马跑分平台等传统平台，我们的手机跑分平台具有更高的灵活性和安全性。
+                  选择跑分平台时应考虑技术稳定性、资金安全性、用户体验等因素。我们的最新跑分平台采用巅峰跑分平台技术，在技术支持中口碑良好。相比金马跑分平台等传统平台，我们的手机跑分平台具有更高的灵活性和安全性。
                 </p>
               </div>
               
@@ -392,7 +392,7 @@ export default function Home() {
               <div className="bg-white p-6 rounded-xl shadow-sm border-l-4 border-orange-500">
                 <h3 className="text-lg font-bold text-gray-900 mb-2">跑分赚钱的收益如何计算？</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  跑分赚钱的收益主要来自交易佣金和平台分润。USDT跑分系统的收益率通常在0.5%-2%之间，具体取决于交易量和风险等级。我们的跑分系统提供详细的收益统计功能，帮助用户清晰了解每笔交易的盈利情况。
+                  跑分赚钱的收益主要来自交易佣金和平台分润。UPI跑分系统的收益率通常在0.5%-2%之间，具体取决于交易量和风险等级。我们的跑分系统提供详细的收益统计功能，帮助用户清晰了解每笔交易的盈利情况。
                 </p>
               </div>
               
@@ -406,7 +406,7 @@ export default function Home() {
               <div className="bg-white p-6 rounded-xl shadow-sm border-l-4 border-indigo-500">
                 <h3 className="text-lg font-bold text-gray-900 mb-2">手机跑分平台的安全性如何保障？</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  我们的手机跑分平台采用多层安全防护机制，包括数据加密、身份认证、风险监控等。跑分车队的资金安全通过冷热钱包分离、多重签名等技术手段保障。在跑分论坛的用户反馈中，我们的安全性得到了广泛认可。
+                  我们的手机跑分平台采用多层安全防护机制，包括数据加密、身份认证、风险监控等。跑分车队的资金安全通过冷热钱包分离、多重签名等技术手段保障。在技术支持的用户反馈中，我们的安全性得到了广泛认可。
                 </p>
               </div>
             </div>
@@ -438,7 +438,7 @@ export default function Home() {
           
           <div className="mt-12 pt-8 border-t border-gray-700">
             <p className="text-gray-400">
-              © 2025 跑分平台. 专业的印度三方支付系统解决方案提供商
+              © 2025 跑分平台. 行业首创全自动买卖模式 · 跑分源码开源 · 专业技术支持
             </p>
           </div>
         </div>
