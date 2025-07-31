@@ -39,9 +39,9 @@ export default function Home() {
       <section className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-            专业<span className="text-blue-600">跑分平台</span>
+            <span className="text-blue-600">跑分平台</span>
             <br className="hidden sm:block" />
-            <span className="sm:hidden"> </span>印度三方支付系统
+            <span className="sm:hidden"> </span>行业首创全自动买卖模式
           </h1>
           <p className="text-lg sm:text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
             专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台解决方案。我们的跑分系统源码经过深度优化，支持跑分平台搭建、手机跑分平台开发，是最新跑分平台的行业标杆。阿三自动充u挂卡代收代付，自动回调，码商团队分级代理功能，支持所有印度银行公户个户唤醒，Pe Paytm Mobikwik FreeCharge等5个主流钱包。

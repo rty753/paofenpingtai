@@ -13,21 +13,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "USDT跑分平台 | 巅峰跑分平台 | 银行卡跑分平台 | 跑分系统源码",
-  description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、UPI跑分平台、博彩跑分等全方位解决方案。跑分平台搭建、跑分系统源码、手机跑分平台app开发，跑分赚钱就选我们。支持印度三方支付系统、代收代付功能、自动回调、码商团队分级代理。",
+  title: "跑分平台 | 跑分源码 | 跑分论坛 - 印度银行卡UPI跑分系统",
+  description: "行业首创全自动买卖模式！专业跑分平台，提供印度印尼越南银行卡跑分、UPI跑分系统。跑分源码开源，跑分论坛交流，支持代收代付、自动回调。跑分平台搭建首选。",
 
   authors: [{ name: "TataPay" }],
   openGraph: {
-    title: "USDT跑分平台 | 巅峰跑分平台 | 银行卡跑分平台 | 跑分系统源码",
-    description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、UPI跑分平台、博彩跑分等全方位解决方案。跑分平台搭建、跑分系统源码、手机跑分平台app开发，跑分赚钱就选我们。",
+    title: "跑分平台 | 跑分源码 | 跑分论坛 - 印度银行卡UPI跑分系统",
+    description: "行业首创全自动买卖模式！专业跑分平台，提供印度印尼越南银行卡跑分、UPI跑分系统。跑分源码开源，跑分论坛交流，支持代收代付、自动回调。",
     type: "website",
     locale: "zh_CN",
     siteName: "跑分平台",
   },
   twitter: {
     card: "summary_large_image",
-    title: "USDT跑分平台 | 巅峰跑分平台 | 银行卡跑分平台",
-    description: "专业的USDT跑分平台，巅峰跑分平台技术，提供银行卡跑分平台、UPI跑分平台、跑分系统源码等全方位跑分解决方案。",
+    title: "跑分平台 | 跑分源码 | 跑分论坛",
+    description: "行业首创全自动买卖模式！专业跑分平台，印度印尼越南银行卡跑分、UPI跑分系统。跑分源码开源，跑分论坛交流，海外支付专家。",
   },
   robots: {
     index: true,
