@@ -432,7 +432,7 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               <MessageCircle className="mr-3 w-5 h-5" />
-              Telegram: @tatapay15
+              Telegram: @yinhexitong1
             </a>
           </div>
           
