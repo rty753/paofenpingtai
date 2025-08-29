@@ -9,7 +9,7 @@
 
 **行业首创全自动买卖模式！专业跑分平台，跑分源码开源，专业技术支持**
 
-[💬 立即咨询](https://t.me/tatapay15) • [🚀 在线演示](https://paofenpingtai.com) • [📖 功能详情](https://paofenpingtai.com/features)
+[💬 立即咨询](https://t.me/yinhexitong1) • [🚀 在线演示](https://paofenpingtai.com) • [📖 功能详情](https://paofenpingtai.com/features)
 
 </div>
 
@@ -293,7 +293,7 @@ src/app/features/page.tsx   # 功能页面
 ## 📞 联系我们
 
 ### 💬 即时沟通
-- **Telegram**: [@tatapay15](https://t.me/tatapay15)
+- **Telegram**: [@yinhexitong1](https://t.me/yinhexitong1)
 - **在线咨询**: 24/7 专业技术支持
 
 ### 🌏 服务范围  
@@ -374,7 +374,7 @@ src/app/features/page.tsx   # 功能页面
 
 **行业首创全自动买卖模式 · 跑分源码开源 · 专业技术支持**
 
-[💬 联系我们](https://t.me/tatapay15) • [🌐 官方网站](https://paofenpingtai.com) • [📋 功能详情](https://paofenpingtai.com/features)
+[💬 联系我们](https://t.me/yinhexitong1) • [🌐 官方网站](https://paofenpingtai.com) • [📋 功能详情](https://paofenpingtai.com/features)
 
 ---
 

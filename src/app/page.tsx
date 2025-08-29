@@ -54,7 +54,7 @@ export default function Home() {
               立即咨询 <ArrowRight className="ml-2 w-5 h-5" />
             </a>
             <a 
-              href="https://t.me/tatapay15" 
+              href="https://t.me/yinhexitong1" 
               className="border border-blue-600 text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors flex items-center justify-center min-h-[48px] text-lg"
               target="_blank"
               rel="noopener noreferrer"
@@ -426,7 +426,7 @@ export default function Home() {
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <a 
-              href="https://t.me/tatapay15"
+              href="https://t.me/yinhexitong1"
               className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold transition-colors flex items-center"
               target="_blank"
               rel="noopener noreferrer"

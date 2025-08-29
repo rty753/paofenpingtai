@@ -61,13 +61,13 @@ const jsonLd = [
     logo: 'https://paofenpingtai.com/favicon.ico',
     contactPoint: {
       '@type': 'ContactPoint',
-      url: 'https://t.me/tatapay15',
+      url: 'https://t.me/yinhexitong1',
       contactType: 'customer service',
       areaServed: 'IN',
       availableLanguage: ['zh', 'en']
     },
     sameAs: [
-      'https://t.me/tatapay15'
+      'https://t.me/yinhexitong1'
     ],
     offers: {
       '@type': 'Offer',
